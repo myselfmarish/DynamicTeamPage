@@ -11,12 +11,12 @@ let teamDB = [
         " and engaged with readers’ responses to articles."
     ],
     [
-        "Alex",
-        "TeamMember.png",
-        "Experienced graphic designer with 5 years of experience. Enthusiastic, creative graphic designer" +
-        " with solid problem solving skills. Seeking to lower the workload of John M. at Marketing Fusion, Inc. " +
-        "through proven strengths in creativity, collaboration, and taking criticism. Also excels at several tech tools," +
-        " including Illustrator, Photoshop, and CorelDraw."
+        "Abram Kouwen",
+        "AbramKouwen.png",
+        "Creative director and graphic designer with 3 years of experience working with brands, such as Nike and Porsche." +
+        " I am able to work in stressful and fast paced enviroments. Skilled in hands-on" +
+        " and management positions. Proficient in 3d modeling, video production, and anything Adobe." +
+        " In my free time I like to volunteer to help NGOs with their causes"
     ],
     [
         "Alissa",
